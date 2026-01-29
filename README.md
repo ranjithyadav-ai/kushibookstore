@@ -1,4 +1,4 @@
-![image alt](https://github.com/ranjithyadav-ai/kushibookstore/blob/main/Untitled%20design.png?raw=true)
+<img width="500" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/a860705f-5ea1-40c8-b4a4-6f4aeb41ab62" />
 # kushibookstore
 Here's a detailed overview of the Online Book Store (E-commerce) project:
 
