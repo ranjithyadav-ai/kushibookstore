@@ -1,5 +1,5 @@
-<img width="500" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/a860705f-5ea1-40c8-b4a4-6f4aeb41ab62" />
 # kushibookstore
+<img width="200" height="200" alt="Untitled design" src="https://github.com/user-attachments/assets/260d215b-b91a-4615-8727-f201905a67de" />
 Here's a detailed overview of the Online Book Store (E-commerce) project:
 
 Project Overview
