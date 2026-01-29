@@ -41,4 +41,4 @@ Workflow
 - Client (Browser) <-> Java Backend (API) <-> MySQL Database
 - User interactions trigger API calls to the Java backend.
 - Backend processes requests, interacts with the database, and returns responses.
--
+
